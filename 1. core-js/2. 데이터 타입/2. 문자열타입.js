@@ -38,3 +38,4 @@ var anni = '크리스마스';
 
 console.log(month + '월 ' + day + '일은 ' + anni + '입니다.');
 console.log(`${month}월 ${day}일은 ${anni}입니다.`);
+
